@@ -5,8 +5,8 @@ import cv2
 from tqdm import tqdm
 
 # -------- PATHS --------
-INPUT_FOLDER = "C:\\Users\\praka\\OneDrive\\Desktop\\Machine Learning\\Deep-Learning\\ImageToSpectrogramPrediction\\gearbox\\target_test"
-OUTPUT_FOLDER = "C:\\Users\\praka\\OneDrive\\Desktop\\Machine Learning\\Deep-Learning\\ImageToSpectrogramPrediction\\SpectrogramImage"
+INPUT_FOLDER = "C:\\Users\\praka\\OneDrive\\Desktop\\Machine Learning\\Deep-Learning\\ImageToSpectrogramPrediction\\gearbox\\train"
+OUTPUT_FOLDER = "C:\\Users\\praka\\OneDrive\\Desktop\\Machine Learning\\Deep-Learning\\ImageToSpectrogramPrediction\\SpectrogramImage\\train"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
