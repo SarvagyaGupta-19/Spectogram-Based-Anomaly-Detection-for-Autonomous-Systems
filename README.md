@@ -327,7 +327,7 @@ Visualized via 1D scatter of scores vs. cluster labels.
 ```
 Image: section_00_target_test_anomaly.png
 Anomaly Score: 18.62
-Classification: SEVERE ANOMALY
+Classification: SEVERE ANOMALY.
 ```
 
 ---
